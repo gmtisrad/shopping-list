@@ -23,6 +23,10 @@ button:hover {
   margin: 0 auto;
 }
 
+.is-checked {
+  text-decoration: line-through;
+}
+
 .shopping-list {
   list-style: none;
   padding-left: 0;
